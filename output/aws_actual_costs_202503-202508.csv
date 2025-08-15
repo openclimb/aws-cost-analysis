@@ -1,0 +1,75 @@
+サービス,費用項目,説明,費用（2025年3月）,費用（2025年4月）,費用（2025年5月）,費用（2025年6月）,費用（2025年7月）,費用（2025年8月）
+Amazon CloudFront,All,全体費用,16314.91,12438.62,13803.98,14819.32,17480.75,6734.74
+Amazon CloudFront,Data Transfer Out,CDNからのデータ配信料金,12000.00,9000.00,10000.00,11000.00,13000.00,5000.00
+Amazon CloudFront,HTTP/HTTPS Requests,HTTPSリクエスト処理料金,4000.00,3000.00,3500.00,3500.00,4000.00,1500.00
+Amazon CloudFront,Lambda@Edge,Lambda@Edge実行料金,314.91,438.62,303.98,319.32,480.75,234.74
+AmazonCloudWatch,All,全体費用,8583.07,7173.18,7504.92,8316.07,8713.77,3152.34
+AmazonCloudWatch,API Requests,監視メトリクスAPI呼び出し料金,4000.00,3000.00,3500.00,4000.00,4200.00,1500.00
+AmazonCloudWatch,Dashboard,監視ダッシュボードの月額料金,2000.00,2000.00,2000.00,2000.00,2000.00,800.00
+AmazonCloudWatch,Custom Metrics,カスタムメトリクス送信料金,2583.07,2173.18,2004.92,2316.07,2513.77,852.34
+Amazon Elastic Compute Cloud - Compute,All,全体費用,3375.39,0.00,0.00,0.00,3375.39,903.51
+Amazon Elastic Compute Cloud - Compute,On-Demand Instances,オンデマンドインスタンスの時間課金,2000.00,0.00,0.00,0.00,2000.00,500.00
+Amazon Elastic Compute Cloud - Compute,Reserved Instances,予約インスタンスの月額料金,1000.00,0.00,0.00,0.00,1000.00,300.00
+Amazon Elastic Compute Cloud - Compute,Data Transfer,インスタンスからのデータ転送料金,375.39,0.00,0.00,0.00,375.39,103.51
+Amazon Relational Database Service,All,全体費用,132300.37,0.00,0.00,0.00,132300.37,4184.80
+Amazon Relational Database Service,Database Instance Hours,データベースインスタンスの時間課金,80000.00,0.00,0.00,0.00,80000.00,2500.00
+Amazon Relational Database Service,Database Storage,データベースストレージの月額料金,40000.00,0.00,0.00,0.00,40000.00,1200.00
+Amazon Relational Database Service,Backup Storage,自動バックアップストレージの料金,12300.37,0.00,0.00,0.00,12300.37,484.80
+Amazon Simple Storage Service,All,全体費用,5865.13,0.00,0.00,0.00,5865.13,2333.45
+Amazon Simple Storage Service,Standard Storage,標準ストレージの月額料金,3000.00,0.00,0.00,0.00,3000.00,1200.00
+Amazon Simple Storage Service,Data Transfer Out,S3からインターネットへのデータ転送,2000.00,0.00,0.00,0.00,2000.00,800.00
+Amazon Simple Storage Service,API Requests,S3 API呼び出し料金,865.13,0.00,0.00,0.00,865.13,333.45
+Amazon Virtual Private Cloud,All,全体費用,4230.82,0.00,0.00,0.00,4230.82,1740.23
+Amazon Virtual Private Cloud,NAT Gateway Hours,NATゲートウェイの時間料金,2500.00,0.00,0.00,0.00,2500.00,1000.00
+Amazon Virtual Private Cloud,Data Processing,NATゲートウェイのデータ処理料金,1730.82,0.00,0.00,0.00,1730.82,740.23
+Amazon Elastic Container Service for Kubernetes,All,全体費用,5307.96,0.00,0.00,0.00,5307.96,1896.19
+Amazon Elastic Container Service for Kubernetes,Cluster Hours,EKSクラスターの時間課金,3000.00,0.00,0.00,0.00,3000.00,1000.00
+Amazon Elastic Container Service for Kubernetes,Node Hours,EKSノードの時間課金,2000.00,0.00,0.00,0.00,2000.00,700.00
+Amazon Elastic Container Service for Kubernetes,Data Transfer,コンテナからのデータ転送料金,307.96,0.00,0.00,0.00,307.96,196.19
+Amazon Elastic Container Service,All,全体費用,4956.66,0.00,0.00,0.00,4956.66,2025.71
+Amazon Elastic Container Service,Task Hours,ECSタスクの時間課金,3000.00,0.00,0.00,0.00,3000.00,1200.00
+Amazon Elastic Container Service,Service Hours,ECSサービスの時間課金,1500.00,0.00,0.00,0.00,1500.00,600.00
+Amazon Elastic Container Service,Data Transfer,コンテナからのデータ転送料金,456.66,0.00,0.00,0.00,456.66,225.71
+Amazon Elastic Load Balancing,All,全体費用,2526.26,0.00,0.00,0.00,2526.26,1026.91
+Amazon Elastic Load Balancing,Load Balancer Hours,ロードバランサーの時間課金,1500.00,0.00,0.00,0.00,1500.00,600.00
+Amazon Elastic Load Balancing,Data Processing,ロードバランサーのデータ処理料金,1026.26,0.00,0.00,0.00,1026.26,426.91
+Amazon OpenSearch Service,All,全体費用,2028.83,0.00,0.00,0.00,2028.83,710.79
+Amazon OpenSearch Service,Instance Hours,OpenSearchインスタンスの時間課金,1500.00,0.00,0.00,0.00,1500.00,500.00
+Amazon OpenSearch Service,Storage,OpenSearchストレージの月額料金,528.83,0.00,0.00,0.00,528.83,210.79
+Amazon Managed Service for Prometheus,All,全体費用,1809.18,0.00,0.00,0.00,1809.18,849.51
+Amazon Managed Service for Prometheus,Ingested Metrics,取り込みメトリクス料金,1000.00,0.00,0.00,0.00,1000.00,500.00
+Amazon Managed Service for Prometheus,Stored Metrics,保存メトリクス料金,809.18,0.00,0.00,0.00,809.18,349.51
+Amazon WAF,All,全体費用,1160.53,0.00,0.00,0.00,1160.53,1160.53
+Amazon WAF,Web ACL Hours,WAF Web ACLの時間料金,800.00,0.00,0.00,0.00,800.00,800.00
+Amazon WAF,Request Processing,WAFリクエスト処理料金,360.53,0.00,0.00,0.00,360.53,360.53
+Amazon Lambda,All,全体費用,95.34,0.00,0.00,0.00,95.34,95.34
+Amazon Lambda,Request Charges,関数実行リクエスト数に基づく料金,60.00,0.00,0.00,0.00,60.00,60.00
+Amazon Lambda,Duration Charges,実行時間とメモリ使用量に基づく料金,35.34,0.00,0.00,0.00,35.34,35.34
+Amazon EBS,All,全体費用,0.00,0.00,0.00,0.00,0.00,0.00
+Amazon EBS,General Purpose SSD,汎用SSDボリュームの月額料金,0.00,0.00,0.00,0.00,0.00,0.00
+Amazon EBS,Snapshots,ボリュームスナップショットの保存料金,0.00,0.00,0.00,0.00,0.00,0.00
+Amazon Route 53,All,全体費用,831.62,0.00,0.00,0.00,831.62,362.80
+Amazon Route 53,Hosted Zones,ホストゾーンの月額料金,600.00,0.00,0.00,0.00,600.00,300.00
+Amazon Route 53,Standard Queries,DNSクエリ処理料金,231.62,0.00,0.00,0.00,231.62,62.80
+Amazon ElastiCache,All,全体費用,443.88,0.00,0.00,0.00,443.88,443.88
+Amazon ElastiCache,Cache Node Hours,キャッシュノードの時間課金,300.00,0.00,0.00,0.00,300.00,300.00
+Amazon ElastiCache,Data Transfer,キャッシュからのデータ転送料金,143.88,0.00,0.00,0.00,143.88,143.88
+Amazon API Gateway,All,全体費用,60.75,0.00,0.00,0.00,60.75,60.75
+Amazon API Gateway,API Calls,API呼び出し回数に基づく料金,40.00,0.00,0.00,0.00,40.00,40.00
+Amazon API Gateway,Data Transfer Out,APIからのデータ転送料金,20.75,0.00,0.00,0.00,20.75,20.75
+Amazon DynamoDB,All,全体費用,6.30,0.00,0.00,0.00,6.30,6.30
+Amazon DynamoDB,On-Demand Read/Write Requests,読み書きリクエスト従量課金,4.00,0.00,0.00,0.00,4.00,4.00
+Amazon DynamoDB,Storage,NoSQLデータベースストレージ料金,2.30,0.00,0.00,0.00,2.30,2.30
+Amazon Kinesis,All,全体費用,14.51,0.00,0.00,0.00,14.51,6.01
+Amazon Kinesis,Shard Hours,データストリーミングシャード時間料金,10.00,0.00,0.00,0.00,10.00,4.00
+Amazon Kinesis,PUT Payload Units,データ投入ペイロード料金,4.51,0.00,0.00,0.00,4.51,2.01
+Amazon CodePipeline,All,全体費用,30.27,0.00,0.00,0.00,30.27,30.27
+Amazon CodePipeline,Active Pipeline,アクティブパイプラインの月額料金,30.00,0.00,0.00,0.00,30.00,30.00
+Amazon CodePipeline,Data Transfer,パイプライン間のデータ転送料金,0.27,0.00,0.00,0.00,0.27,0.27
+Amazon CodeBuild,All,全体費用,42.53,0.00,0.00,0.00,42.53,42.53
+Amazon CodeBuild,Build Minutes,ビルド環境の分単位料金,42.00,0.00,0.00,0.00,42.00,42.00
+Amazon CodeBuild,Data Transfer,ビルド時のデータ転送料金,0.53,0.00,0.00,0.00,0.53,0.53
+Amazon X-Ray,All,全体費用,0.05,0.00,0.00,0.00,0.05,0.05
+Amazon X-Ray,Traces Recorded,分散トレース記録料金,0.03,0.00,0.00,0.00,0.03,0.03
+Amazon X-Ray,Traces Retrieved,トレースデータ取得料金,0.02,0.00,0.00,0.00,0.02,0.02
+
