@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  aws-cost-analyzer:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: aws-cost-analyzer
+    volumes:
+      - ../output:/app/input:ro
+      - ../docs:/app/docs
+      - ./charts:/app/charts
+    environment:
+      - INPUT_CSV_PATH=/app/input/aws_service_202503-202508.csv
+      - OUTPUT_DOCS_PATH=/app/docs
+      - OUTPUT_CHARTS_PATH=/app/charts
+    working_dir: /app
+    command: python main.py

@@ -1,0 +1,76 @@
+サービス,費用項目,説明,費用（2025年3月）,費用（2025年4月）,費用（2025年5月）,費用（2025年6月）,費用（2025年7月）,費用（2025年8月）
+Amazon S3,All,全体費用,***,***,***,***,***,***
+Amazon S3,Standard Storage,標準ストレージの月額料金,***,***,***,***,***,***
+Amazon S3,Intelligent Tiering,アクセス頻度に応じた自動階層化ストレージ,***,***,***,***,***,***
+Amazon S3,Glacier Storage,長期保存用低コストアーカイブストレージ,***,***,***,***,***,***
+Amazon S3,PUT/COPY/POST/LIST Requests,オブジェクトの書き込み・コピー・リスト操作,***,***,***,***,***,***
+Amazon S3,GET/SELECT Requests,オブジェクトの読み込み・検索操作,***,***,***,***,***,***
+Amazon S3,Data Transfer Out,S3からインターネットへのデータ転送,***,***,***,***,***,***
+Amazon S3,Cross-Region Replication,異なるリージョンへの自動レプリケーション,***,***,***,***,***,***
+Amazon EC2,All,全体費用,***,***,***,***,***,***
+Amazon EC2,On-Demand Instances (t3.medium),中型汎用インスタンスの時間課金,***,***,***,***,***,***
+Amazon EC2,On-Demand Instances (t3.large),大型汎用インスタンスの時間課金,***,***,***,***,***,***
+Amazon EC2,Reserved Instances (m5.large),1年予約インスタンスの月額料金,***,***,***,***,***,***
+Amazon EC2,Elastic IP Addresses,固定IPアドレスの利用料金,***,***,***,***,***,***
+Amazon EC2,EBS-Optimized Instance Hours,EBS最適化インスタンスの追加料金,***,***,***,***,***,***
+Amazon EC2,Data Transfer Out,EC2からインターネットへのデータ転送,***,***,***,***,***,***
+Amazon RDS,All,全体費用,***,***,***,***,***,***
+Amazon RDS,Database Instance Hours (db.t3.micro),超小型データベースインスタンスの時間課金,***,***,***,***,***,***
+Amazon RDS,Database Instance Hours (db.t3.small),小型データベースインスタンスの時間課金,***,***,***,***,***,***
+Amazon RDS,Database Storage (gp2),汎用SSDストレージの月額料金,***,***,***,***,***,***
+Amazon RDS,Database Storage (io1),高性能IOPSストレージの月額料金,***,***,***,***,***,***
+Amazon RDS,Backup Storage,自動バックアップストレージの料金,***,***,***,***,***,***
+Amazon RDS,Data Transfer,データベースからのデータ転送料金,***,***,***,***,***,***
+Amazon CloudFront,All,全体費用,***,***,***,***,***,***
+Amazon CloudFront,Data Transfer Out,CDNからのデータ配信料金,***,***,***,***,***,***
+Amazon CloudFront,HTTP/HTTPS Requests,HTTPSリクエスト処理料金,***,***,***,***,***,***
+Amazon CloudFront,Origin Shield Requests,オリジンシールドによるキャッシュ最適化,***,***,***,***,***,***
+Amazon Lambda,All,全体費用,***,***,***,***,***,***
+Amazon Lambda,Request Charges,関数実行リクエスト数に基づく料金,***,***,***,***,***,***
+Amazon Lambda,Duration Charges (GB-seconds),実行時間とメモリ使用量に基づく料金,***,***,***,***,***,***
+Amazon EBS,All,全体費用,***,***,***,***,***,***
+Amazon EBS,General Purpose SSD (gp3),汎用SSDボリュームの月額料金,***,***,***,***,***,***
+Amazon EBS,Provisioned IOPS SSD (io2),高性能IOPSボリュームの月額料金,***,***,***,***,***,***
+Amazon EBS,Snapshots,ボリュームスナップショットの保存料金,***,***,***,***,***,***
+Amazon Route 53,All,全体費用,***,***,***,***,***,***
+Amazon Route 53,Hosted Zones,ホストゾーンの月額料金,***,***,***,***,***,***
+Amazon Route 53,Standard Queries,DNSクエリ処理料金,***,***,***,***,***,***
+Amazon CloudWatch,All,全体費用,***,***,***,***,***,***
+Amazon CloudWatch,API Requests,監視メトリクスAPI呼び出し料金,***,***,***,***,***,***
+Amazon CloudWatch,Dashboard,監視ダッシュボードの月額料金,***,***,***,***,***,***
+Amazon CloudWatch,Custom Metrics,カスタムメトリクス送信料金,***,***,***,***,***,***
+Amazon VPC,All,全体費用,***,***,***,***,***,***
+Amazon VPC,NAT Gateway Hours,NATゲートウェイの時間料金,***,***,***,***,***,***
+Amazon VPC,NAT Gateway Data Processing,NATゲートウェイのデータ処理料金,***,***,***,***,***,***
+Amazon API Gateway,All,全体費用,***,***,***,***,***,***
+Amazon API Gateway,API Calls,API呼び出し回数に基づく料金,***,***,***,***,***,***
+Amazon API Gateway,Data Transfer Out,APIからのデータ転送料金,***,***,***,***,***,***
+Amazon SNS,All,全体費用,***,***,***,***,***,***
+Amazon SNS,Notifications,プッシュ通知配信料金,***,***,***,***,***,***
+Amazon SQS,All,全体費用,***,***,***,***,***,***
+Amazon SQS,Requests,メッセージキューリクエスト料金,***,***,***,***,***,***
+Amazon IAM,All,全体費用,***,***,***,***,***,***
+Amazon IAM,Access Analyzer,アクセス権限分析サービス料金,***,***,***,***,***,***
+Amazon KMS,All,全体費用,***,***,***,***,***,***
+Amazon KMS,Key Usage,暗号化キー使用料金,***,***,***,***,***,***
+Amazon Certificate Manager,All,全体費用,***,***,***,***,***,***
+Amazon Certificate Manager,Public Certificates,パブリックSSL/TLS証明書（無料）,***,***,***,***,***,***
+Amazon ElastiCache,All,全体費用,***,***,***,***,***,***
+Amazon ElastiCache,Cache Node Hours (cache.t3.micro),超小型キャッシュノードの時間課金,***,***,***,***,***,***
+Amazon ElastiCache,Data Transfer,キャッシュからのデータ転送料金,***,***,***,***,***,***
+Amazon Elasticsearch,All,全体費用,***,***,***,***,***,***
+Amazon Elasticsearch,Instance Hours (t3.small.elasticsearch),小型検索インスタンスの時間課金,***,***,***,***,***,***
+Amazon Elasticsearch,Storage,検索インデックスストレージ料金,***,***,***,***,***,***
+Amazon DynamoDB,All,全体費用,***,***,***,***,***,***
+Amazon DynamoDB,On-Demand Read/Write Requests,読み書きリクエスト従量課金,***,***,***,***,***,***
+Amazon DynamoDB,Storage,NoSQLデータベースストレージ料金,***,***,***,***,***,***
+Amazon Kinesis,All,全体費用,***,***,***,***,***,***
+Amazon Kinesis,Shard Hours,データストリーミングシャード時間料金,***,***,***,***,***,***
+Amazon Kinesis,PUT Payload Units,データ投入ペイロード料金,***,***,***,***,***,***
+Amazon CodePipeline,All,全体費用,***,***,***,***,***,***
+Amazon CodePipeline,Active Pipeline,アクティブパイプラインの月額料金,***,***,***,***,***,***
+Amazon CodeBuild,All,全体費用,***,***,***,***,***,***
+Amazon CodeBuild,Build Minutes (general1.small),小型ビルド環境の分単位料金,***,***,***,***,***,***
+Amazon X-Ray,All,全体費用,***,***,***,***,***,***
+Amazon X-Ray,Traces Recorded,分散トレース記録料金,***,***,***,***,***,***
+Amazon X-Ray,Traces Retrieved,トレースデータ取得料金,***,***,***,***,***,***
